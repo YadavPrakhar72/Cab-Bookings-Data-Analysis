@@ -24,5 +24,7 @@ Hence, the dashboard focuses primarily on the following ques
 7. Top 5 Customers by Total Booking Value
 8. Ride Distance Distribution Per Day
 
+Dashboard Screenshots 
 
-
+https://github.com/YadavPrakhar72/Ola-Bookings/blob/main/cab-1.png
+https://github.com/YadavPrakhar72/Ola-Bookings/blob/main/cab-2.png
