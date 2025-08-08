@@ -31,7 +31,7 @@ The dataset comprises ride-level booking records for the month of July 2024. It 
 
 ## 🛠️ Tools Used  
 - Power BI (for dashboard creation and DAX logic)  
-- Excel (for raw data cleanup and transformations)
+- Excel (for raw data cleanup and transformation)
 
 ## 📸 Screenshots  
 ### Dashboard Overview  
